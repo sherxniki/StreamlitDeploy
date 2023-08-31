@@ -1,4 +1,3 @@
-pip install streamlit
 import streamlit as st
 
 def largest_number(a, b, c):
